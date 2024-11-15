@@ -10,5 +10,6 @@ Deskripsi singkat
 
 ![Flowchart drawio](https://github.com/user-attachments/assets/fe90d2dc-a4d6-4510-8718-2bbbe4bdc42c)
 
-![Flowchart 2 drawio](https://github.com/user-attachments/assets/9a4527d2-73b1-4f54-81ac-7a8f644fba7e)
+![Flowchart 2](https://github.com/user-attachments/assets/7df1d742-53f2-4db4-9c3b-d2c469b7a9c2)
+
 
