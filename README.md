@@ -12,4 +12,7 @@ Deskripsi singkat
 
 ![Flowchart 2](https://github.com/user-attachments/assets/7df1d742-53f2-4db4-9c3b-d2c469b7a9c2)
 
+FLOWCHART REVISI
+![Flowchart](https://github.com/user-attachments/assets/9618e107-6043-4922-97ff-bdea3d961b9d)
+
 
