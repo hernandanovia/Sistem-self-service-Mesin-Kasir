@@ -16,5 +16,17 @@ FLOWCHART REVISI
 
 ![Flowchart](https://github.com/user-attachments/assets/9618e107-6043-4922-97ff-bdea3d961b9d)
 
-Kemudian, berikut adalah sitemap yang menunjukkan bagaimana program kami berjalan dari awal hingga akhir.
+
+# Sitemap-self-service-Mesin-Kasir
+Kemudian, berikut adalah sitemap yang menggambarkan bagaimana program kami berjalan dari awal hingga akhir.
 ![alt text](https://github.com/hernandanovia/Sistem-self-service-Mesin-Kasir/blob/main/Nanas%20Mart%20Sitemap.png?raw=true)
+
+1. Overview Sistem
+   * Tujuan : Meningkatkan kecepatan efisiensi dalam bertransaksi, mendukung digitalisasi sektor keuangan,dan keamanan yang lebih terjamin.
+   * Manfaat
+     Bagi customer : Kenyamanan saat berbelanja
+     Bagi pebisnis : Mengurangi biaya operasional dan peningkatan produktivitas karyawan.
+
+2. Alur Belanja di Nanas Mart
+   * Beranda
+     Pada laman ini, cutomor akan disambut dengan tampilan program yang unik dan menarik. 
