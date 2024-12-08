@@ -28,8 +28,11 @@ Kemudian, berikut adalah sitemap yang menggambarkan bagaimana program kami berja
      - Bagi customer : Kenyamanan saat berbelanja
      - Bagi pebisnis : Mengurangi biaya operasional dan peningkatan produktivitas karyawan.
     
-2. Fitur Sistem
-   * 
+2. Fitur Unggulan Sistem
+   * Dafatar barang : Guna mengetahui barang apa saja yang tersedia di Nanas Mart.
+   * Keranjang belanja : Menampilkan barang yang telah dipilih dan total harga.
+   * Generate QR code : Pembayaran digital yang mudah melalui pemindaian QR code.
+   * Cetak Struk : Struk pembelian sebagai bukti transaksi.
 
 4. Alur Belanja di Nanas Mart
    * Beranda    : Pada laman ini, customer akan disambut dengan tampilan program yang unik dan menarik.
@@ -37,4 +40,6 @@ Kemudian, berikut adalah sitemap yang menggambarkan bagaimana program kami berja
    * Keranjang  : Barang yang tadinya telah dipilih oleh customer akan ditampilkan dilaman ini beserta jumlah harga yang harus dibyarkan. Setelah sesuai, custumor                    bisa melakukan checkout untuk lanjut ke proses berikutnya.
    * Account    : Customer wajib memasukkan nama agar bisa melanjutkan ke proses pembayaran.
    * Pembayaran : Menu generate QR code akan muncul, customer bisa langsung menekan menu tersebut untuk menampilkan QR code. Kemudian, customer melakukan scan QR                     code tersebut untuk melakukan transaksi. Setelah selesai melakukan transaksi, jangan lupa untuk mencetak struk pembayaran sebagai bukti.                            Pembayaranpun selesai!
+
+Sistem self-service mesin kasir Nanas Mart merupakan solusi yang inovatif untuk meningkatkan efisiensi dan kepuasan pelanggan. Dengan fitur-fitur yang lengkap dan user-friendly, sistem ini dapat menjadi daya tarik tersendiri bagi konsumen.
 
