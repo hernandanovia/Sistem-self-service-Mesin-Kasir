@@ -19,6 +19,7 @@ FLOWCHART REVISI
 
 # Sitemap-self-service-Mesin-Kasir
 Kemudian, berikut adalah sitemap yang menggambarkan bagaimana program kami berjalan dari awal hingga akhir.
+
 ![alt text](https://github.com/hernandanovia/Sistem-self-service-Mesin-Kasir/blob/main/Nanas%20Mart%20Sitemap.png?raw=true)
 
 1. Overview Sistem
@@ -26,8 +27,14 @@ Kemudian, berikut adalah sitemap yang menggambarkan bagaimana program kami berja
    * Manfaat
      - Bagi customer : Kenyamanan saat berbelanja
      - Bagi pebisnis : Mengurangi biaya operasional dan peningkatan produktivitas karyawan.
+    
+2. Fitur Sistem
+   * 
 
-2. Alur Belanja di Nanas Mart
+4. Alur Belanja di Nanas Mart
    * Beranda    : Pada laman ini, customer akan disambut dengan tampilan program yang unik dan menarik.
-   * Belanja    : Laman ini menampilkan daftar barang yang dijual di Nanas Mart. Customer dapat memilih barang yang ingin dibeli lalu, barang-barang tersebut akan       ditambahkan ke keranjang.
-   * Keranjang  :
+   * Belanja    : Laman ini menampilkan daftar barang yang dijual di Nanas Mart. Customer dapat memilih barang yang ingin dibeli lalu, barang-barang tersebut akan                    ditambahkan ke keranjang.
+   * Keranjang  : Barang yang tadinya telah dipilih oleh customer akan ditampilkan dilaman ini beserta jumlah harga yang harus dibyarkan. Setelah sesuai, custumor                    bisa melakukan checkout untuk lanjut ke proses berikutnya.
+   * Account    : Customer wajib memasukkan nama agar bisa melanjutkan ke proses pembayaran.
+   * Pembayaran : Menu generate QR code akan muncul, customer bisa langsung menekan menu tersebut untuk menampilkan QR code. Kemudian, customer melakukan scan QR                     code tersebut untuk melakukan transaksi. Setelah selesai melakukan transaksi, jangan lupa untuk mencetak struk pembayaran sebagai bukti.                            Pembayaranpun selesai!
+
