@@ -1,0 +1,12 @@
+Struk Belanja
+Tanggal: 08-12-2024 18:45:55
+Nama: iiiiii
+Nama Barang                        Harga
+----------------------------------------
+Teh Celup                     Rp      5000
+Pasta Gigi                    Rp     12000
+Telur 1kg                     Rp     28000
+----------------------------------------
+Total                         Rp     45000
+
+Terima kasih telah berbelanja!
