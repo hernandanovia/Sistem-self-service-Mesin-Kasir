@@ -24,8 +24,8 @@ Kemudian, berikut adalah sitemap yang menggambarkan bagaimana program kami berja
 1. Overview Sistem
    * Tujuan : Meningkatkan kecepatan efisiensi dalam bertransaksi, mendukung digitalisasi sektor keuangan,dan keamanan yang lebih terjamin.
    * Manfaat
-     Bagi customer : Kenyamanan saat berbelanja
-     Bagi pebisnis : Mengurangi biaya operasional dan peningkatan produktivitas karyawan.
+     - Bagi customer : Kenyamanan saat berbelanja
+     - Bagi pebisnis : Mengurangi biaya operasional dan peningkatan produktivitas karyawan.
 
 2. Alur Belanja di Nanas Mart
    * Beranda
