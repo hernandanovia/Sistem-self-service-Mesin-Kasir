@@ -17,3 +17,4 @@ FLOWCHART REVISI
 ![Flowchart](https://github.com/user-attachments/assets/9618e107-6043-4922-97ff-bdea3d961b9d)
 
 Kemudian, berikut adalah sitemap yang menunjukkan bagaimana program kami berjalan dari awal hingga akhir.
+![alt text](https://github.com/hernandanovia/Sistem-self-service-Mesin-Kasir/blob/main/Nanas%20Mart%20Sitemap.png?raw=true)
