@@ -43,3 +43,12 @@ Kemudian, berikut adalah sitemap yang menggambarkan bagaimana program kami berja
 
 Sistem self-service mesin kasir Nanas Mart merupakan solusi yang inovatif untuk meningkatkan efisiensi dan kepuasan pelanggan. Dengan fitur-fitur yang lengkap dan user-friendly, sistem ini dapat menjadi daya tarik tersendiri bagi konsumen.
 
+# Library 
+1. Tkinter
+2. tkinter.messagebox
+3. pillow
+4. os
+5. pandas
+6. qrcode
+7. datetime
+
