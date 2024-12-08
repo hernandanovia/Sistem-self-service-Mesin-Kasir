@@ -29,4 +29,4 @@ Kemudian, berikut adalah sitemap yang menggambarkan bagaimana program kami berja
 
 2. Alur Belanja di Nanas Mart
    * Beranda
-     Pada laman ini, cutomor akan disambut dengan tampilan program yang unik dan menarik. 
+       Pada laman ini, cutomor akan disambut dengan tampilan program yang unik dan menarik. 
