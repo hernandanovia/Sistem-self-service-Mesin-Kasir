@@ -86,35 +86,6 @@ def finish_payment():
     name_entry.delete(0, tk.END)
     messagebox.showinfo("Success", "Pembayaran selesai. Terima kasih!")
 
-    
-# # Fungsi untuk mencetak struk belanja
-# def print_receipt():
-#     if not cart:
-#         messagebox.showerror("Error", "Keranjang belanja kosong!")
-#         return
-
-#     name = name_entry.get().strip()
-   
-    
-#     if not name:
-#         messagebox.showerror("Error", "Nama harus diisi!")
-#         return
-
-#     receipt_content = f"Struk Belanja\n"
-#     receipt_content += f"Nama: {name}\n"
-#     receipt_content += f"{'Nama Barang':<30}{'Harga':>10}\n"
-#     receipt_content += "-" * 40 + "\n"
-
-#     total_price = 0
-#     for item_name, item_price in cart:
-#         receipt_content += f"{item_name:<30}Rp{item_price:>10}\n"
-#         total_price += item_price
-    
-#     receipt_content += "-" * 40 + "\n"
-#     receipt_content += f"{'Total':<30}Rp{total_price:>10}\n"
-#     receipt_content += "\nTerima kasih telah berbelanja!\n"
-
-
 # Fungsi untuk mencetak struk belanja
 def print_receipt():
     if not cart:
