@@ -23,13 +23,13 @@ Kemudian, berikut adalah sitemap yang menggambarkan bagaimana program kami berja
 ![alt text](https://github.com/hernandanovia/Sistem-self-service-Mesin-Kasir/blob/main/Nanas%20Mart%20Sitemap.png?raw=true)
 
 1. Overview Sistem
-   * Tujuan : Meningkatkan kecepatan efisiensi dalam bertransaksi, mendukung digitalisasi sektor keuangan,dan keamanan yang lebih terjamin.
+   * Tujuan : Meningkatkan kecepatan efisiensi dalam bertransaksi, mendukung digitalisasi sektor keuangan, dan keamanan yang lebih terjamin.
    * Manfaat
      - Bagi customer : Kenyamanan saat berbelanja
      - Bagi pebisnis : Mengurangi biaya operasional dan peningkatan produktivitas karyawan.
     
 2. Fitur Unggulan Sistem
-   * Dafatar barang : Guna mengetahui barang apa saja yang tersedia di Nanas Mart.
+   * Daftar barang : Guna mengetahui barang apa saja yang tersedia di Nanas Mart.
    * Keranjang belanja : Menampilkan barang yang telah dipilih dan total harga.
    * Generate QR code : Pembayaran digital yang mudah melalui pemindaian QR code.
    * Cetak Struk : Struk pembelian sebagai bukti transaksi.
