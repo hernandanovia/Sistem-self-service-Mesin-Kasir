@@ -37,7 +37,7 @@ Kemudian, berikut adalah sitemap yang menggambarkan bagaimana program kami berja
 4. Alur Belanja di Nanas Mart
    * Beranda    : Pada laman ini, customer akan disambut dengan tampilan program yang unik dan menarik.
    * Belanja    : Laman ini menampilkan daftar barang yang dijual di Nanas Mart. Customer dapat memilih barang yang ingin dibeli lalu, barang-barang tersebut akan                    ditambahkan ke keranjang.
-   * Keranjang  : Barang yang tadinya telah dipilih oleh customer akan ditampilkan dilaman ini beserta jumlah harga yang harus dibyarkan. Setelah sesuai, custumor                    bisa melakukan checkout untuk lanjut ke proses berikutnya.
+   * Keranjang  : Barang yang tadinya telah dipilih oleh customer akan ditampilkan di laman ini beserta jumlah harga yang harus dibyarkan. Setelah sesuai, customer                    bisa melakukan checkout untuk lanjut ke proses berikutnya.
    * Account    : Customer wajib memasukkan nama agar bisa melanjutkan ke proses pembayaran.
    * Pembayaran : Menu generate QR code akan muncul, customer bisa langsung menekan menu tersebut untuk menampilkan QR code. Kemudian, customer melakukan scan QR                     code tersebut untuk melakukan transaksi. Setelah selesai melakukan transaksi, jangan lupa untuk mencetak struk pembayaran sebagai bukti.                            Pembayaranpun selesai!
 
