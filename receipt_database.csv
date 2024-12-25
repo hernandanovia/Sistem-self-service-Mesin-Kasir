@@ -1,0 +1,114 @@
+;Rekap data pembeli;;;;;
+;;;;;;
+Tanggal;Nama Pembeli;Barang yang dibeli;Total
+20-12-2024 17:14:40,iiiii,Kopi Sachet,2000,27000
+20-12-2024 17:14:40,iiiii,Shampo Botol,25000,27000
+20-12-2024 17:17:35,iiiiii,Sabun Mandi,7000,47000
+20-12-2024 17:17:35,iiiiii,Pasta Gigi,12000,47000
+20-12-2024 17:17:35,iiiiii,Telur 1kg,28000,47000
+20-12-2024 17:19:11,haechan,Kopi Sachet,2000,84000
+20-12-2024 17:19:11,haechan,Biskuit Kaleng,45000,84000
+20-12-2024 17:19:11,haechan,Sabun Mandi,7000,84000
+20-12-2024 17:19:11,haechan,Pasta Gigi,12000,84000
+20-12-2024 17:19:11,haechan,Tissue Roll,10000,84000
+20-12-2024 17:19:11,haechan,Minuman Soda,8000,84000
+25-12-2024 11:55:29,nando,Mie Instan,2500,42500
+25-12-2024 11:55:29,nando,Shampo Botol,25000,42500
+25-12-2024 11:55:29,nando,Susu UHT 1L,15000,42500
+25-12-2024 12:01:02,rahma,Mie Instan,2500,34500
+25-12-2024 12:01:02,rahma,Telur 1kg,28000,34500
+25-12-2024 12:01:02,rahma,Sabun cuci piring,4000,34500
+25-12-2024 12:06:12,nanda,Mie Instan,2500,14500
+25-12-2024 12:06:12,nanda,Pasta Gigi,12000,14500
+25-12-2024 14:56:21,ini,Gula Pasir 1kg,15000,38000
+25-12-2024 14:56:21,ini,Susu UHT 1L,15000,38000
+25-12-2024 14:56:21,ini,Minuman Soda,8000,38000
+25-12-2024 14:56:23,ini,Gula Pasir 1kg,15000,38000
+25-12-2024 14:56:23,ini,Susu UHT 1L,15000,38000
+25-12-2024 14:56:23,ini,Minuman Soda,8000,38000
+25-12-2024 15:32:21,diana,Mie Instan,2500,27500
+25-12-2024 15:32:21,diana,Susu UHT 1L,15000,27500
+25-12-2024 15:32:21,diana,Tissue Roll,10000,27500
+25-12-2024 16:03:10,inat,Biskuit Kaleng,45000,45000
+25-12-2024 16:05:32,shafa,Cokelat Batangan,15000,75000
+25-12-2024 16:05:32,shafa,Cokelat Batangan,15000,75000
+25-12-2024 16:05:32,shafa,Cokelat Batangan,15000,75000
+25-12-2024 16:05:32,shafa,Cokelat Batangan,15000,75000
+25-12-2024 16:05:32,shafa,Cokelat Batangan,15000,75000
+25-12-2024 16:09:13,iu,Minuman Soda,8000,144000
+25-12-2024 16:09:13,iu,Minuman Soda,8000,144000
+25-12-2024 16:09:13,iu,Minuman Soda,8000,144000
+25-12-2024 16:09:13,iu,Minuman Soda,8000,144000
+25-12-2024 16:09:13,iu,Minuman Soda,8000,144000
+25-12-2024 16:09:13,iu,Minuman Soda,8000,144000
+25-12-2024 16:09:13,iu,Pasta Gigi,12000,144000
+25-12-2024 16:09:13,iu,Pasta Gigi,12000,144000
+25-12-2024 16:09:13,iu,Pasta Gigi,12000,144000
+25-12-2024 16:09:13,iu,Pasta Gigi,12000,144000
+25-12-2024 16:09:13,iu,Pasta Gigi,12000,144000
+25-12-2024 16:09:13,iu,Pasta Gigi,12000,144000
+25-12-2024 16:09:13,iu,Pasta Gigi,12000,144000
+25-12-2024 16:09:13,iu,Pasta Gigi,12000,144000
+25-12-2024 16:20:43,inyong,Minuman Soda,8000,32000
+25-12-2024 16:20:43,inyong,Minuman Soda,8000,32000
+25-12-2024 16:20:43,inyong,Minuman Soda,8000,32000
+25-12-2024 16:20:43,inyong,Minuman Soda,8000,32000
+25-12-2024 16:40:25,yip,Minyak Goreng 2L,30000,60000
+25-12-2024 16:40:25,yip,Minyak Goreng 2L,30000,60000
+25-12-2024 17:20:58,nando,Kopi Sachet,2000,4000
+25-12-2024 17:20:58,nando,Kopi Sachet,2000,4000
+25-12-2024 17:34:58,nandi,Minyak Goreng 2L,30000,60000
+25-12-2024 17:38:03,sekar,Teh Celup,5000,17500
+25-12-2024 17:38:03,sekar,Mie Instan,2500,17500
+25-12-2024 17:48:40,hernan,,,
+,,Kopi Sachet,2000,4000
+,,Gula Pasir 1kg,15000,45000
+,,,Total,49000
+25-12-2024 17:48:45,hernan,,,
+,,Kopi Sachet,2000,4000
+,,Gula Pasir 1kg,15000,45000
+,,,Total,49000
+25-12-2024 18:02:53,upin,,,
+,,Minyak Goreng 2L,30000,60000
+,,Biskuit Kaleng,45000,45000
+,,,Total,105000
+25-12-2024 18:02:56,upin,,,
+,,Minyak Goreng 2L,30000,60000
+,,Biskuit Kaleng,45000,45000
+,,,Total,105000
+25-12-2024 18:05:35,mail,,,
+,,Gula Pasir 1kg,15000,30000
+,,Shampo Botol,25000,75000
+,,,Total,105000
+25-12-2024 18:05:38,mail,,,
+,,Gula Pasir 1kg,15000,30000
+,,Shampo Botol,25000,75000
+,,,Total,105000
+25-12-2024 18:06:32,ros,Teh Celup,5000,75000
+25-12-2024 18:06:32,ros,Minyak Goreng 2L,30000,75000
+25-12-2024 19:01:11,novi,Kopi Sachet,2000,114000
+25-12-2024 19:01:11,novi,Shampo Botol,25000,114000
+25-12-2024 19:01:11,novi,Teh Celup,5000,114000
+25-12-2024 19:02:33,nando,,,
+,,Biskuit Kaleng,45000,90000
+,,Gula Pasir 1kg,15000,15000
+,,Teh Celup,5000,15000
+,,,Total,120000
+25-12-2024 19:02:37,nando,,,
+,,Biskuit Kaleng,45000,90000
+,,Gula Pasir 1kg,15000,15000
+,,Teh Celup,5000,15000
+,,,Total,120000
+Tanggal,Nama Pembeli,Nama Barang,Harga,Jumlah,Subtotal
+25-12-2024 19:11:23,inun,Gula Pasir 1kg,15000,2,30000
+25-12-2024 19:11:23,inun,Beras 5kg,60000,1,60000
+,,,,Total,90000
+
+Tanggal,Nama Pembeli,Nama Barang,Harga,Jumlah,Subtotal
+25-12-2024 19:11:26,inun,Gula Pasir 1kg,15000,2,30000
+25-12-2024 19:11:26,inun,Beras 5kg,60000,1,60000
+,,,,Total,90000
+
+25-12-2024 19:13:04,nopin,Beras 5kg,60000,165000
+25-12-2024 19:13:04,nopin,Minyak Goreng 2L,30000,165000
+25-12-2024 19:13:04,nopin,Gula Pasir 1kg,15000,165000
